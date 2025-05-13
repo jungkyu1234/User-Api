@@ -58,3 +58,4 @@ sourceSets {
 tasks.named('test') {
 	useJUnitPlatform()
 }
+#TEST
